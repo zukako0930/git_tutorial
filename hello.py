@@ -3,3 +3,4 @@ def aaa():
 	print('from 3python')
 def bbb():
 	print('b')
+	print('from python')
