@@ -1,3 +1,6 @@
-for i in range(3):
-	print('helloWorld')
+def aaa():
+	print('a')
+
+def bbb():
+	print('b')
 
