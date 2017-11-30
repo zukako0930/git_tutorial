@@ -3,4 +3,4 @@ def aaa():
 
 def bbb():
 	print('b')
-
+	print('from python')
