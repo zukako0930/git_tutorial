@@ -6,3 +6,4 @@ def bbb():
 
 def ccc():
 	print('c')
+	print('from python')
