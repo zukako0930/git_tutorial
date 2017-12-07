@@ -9,3 +9,6 @@ gitの機能をいろいろ確認するため
 =======
 # fix2から入力
 
+
+
+kakikomimasita
