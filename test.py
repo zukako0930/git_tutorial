@@ -1,1 +1,1 @@
-print('From issue2')
+print('コンフリクトの解決')
