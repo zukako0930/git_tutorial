@@ -1,11 +1,11 @@
-## gitで使うコマンド
+# ローカルでの作業
 いざ，共同開発を始めよう!
 えっとまずどうすればいいか...
 ローカルリポジトリを作成してリモートと紐づける．
 - 基本 : git clone 
 - git init + git pull
 
-### git clone
+## git clone
 クローンしたローカルリポジトリは変更履歴も複製されているので、
 元々のリポジトリと全く同じように履歴の参照やコミットをすることが
 できます。
@@ -51,9 +51,9 @@ Fast-forward
 
 作業を完了したらそれをリモートに反映させたい．
 反映させる手順としては`add`して`commit`して`push`する．
-### git add 
+## git add 
 意味的にはファイルをgitの管理の対象に入れますよ〜っていう宣言みたいなもの．
-`ステージする`っていう言い方もする．
+`インデックスにステージする`っていう言い方もする．
 
 ```
 $ git add <ファイル名> 
@@ -66,7 +66,7 @@ $ git add .
 ってすると今のブランチ上の作業分が全てステージされるので楽．
 ステージ後に，`git commit`ができるようになる．
 
-### git commit 
+## git commit 
 ステージされたファイルをローカルリポジトリに登録する．
 
 ```
@@ -76,16 +76,25 @@ $ git commit -m '〇〇を変更'
 逆に，つけないと画面切り替わってコメントつけるように要求される．
 
 コミットしたのでようやくpushできるぞ
-### git push
-ローカルリポジトリにcommitされた変更をリモートリポジトリに反映する．
+## git push
+ローカルリポジトリにcommitされた変更を**リモートリポジトリに反映**する．
 ```
 $ git push origin <現在作業しているブランチ名>
+
+Counting objects: 6, done. 
+Delta compression using up to 4 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 12.07 KiB | 0 bytes/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/zukako0930/git_tutorial.git
+   3a91a73..265fd60  master -> master 
 ```
 ブランチ名には現在作業しているブランチ名を入れる．
-こうすることでリモートリポジトリ上にプルリクエストを作ることができる．<br>
+こうすることでリモートリポジトリ上に**プルリクエスト**を作ることができる．<br>
+...なんでわざわざaddする必要があるの？ 
+<br>![center 40%](./img/atama.jpg)
 
-![center 40%](./img/atama.jpg)
-<br>...なんでわざわざaddする必要があるの？ 
 
 ![60% center](./img/nagare.png)
 <br>この図で登録にあたる部分が`add`
