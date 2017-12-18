@@ -18,6 +18,7 @@ namespace OopLecture
 
         public Enemy(int x, int y, int r_x, int r_y,int t, int turn = 1, int w = 40, int h = 40) : base(x, y, w, h)
         {
+            X = 0;
             X = x;
             Y = y;
             W = w;
@@ -60,7 +61,7 @@ namespace OopLecture
                     _img = _img_2;
                     break;
                 case 3:
-                    Move(-200, 0);
+                    Move(-20, 0);
                     move_xcount++;
                     _img = _img_3;
                     break;
