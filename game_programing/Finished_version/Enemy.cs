@@ -86,7 +86,7 @@ namespace OopLecture
 
         public virtual void Enemy_Draw(Graphics g)
         {
-            g.DrawImage(_img, new Point(X, Y));
+            g.DrawImage(_img, new Point(X+20, Y));
         }
 
     }
