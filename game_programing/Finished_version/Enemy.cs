@@ -60,7 +60,7 @@ namespace OopLecture
                     _img = _img_2;
                     break;
                 case 3:
-                    Move(-20, 0);
+                    Move(-200, 0);
                     move_xcount++;
                     _img = _img_3;
                     break;
