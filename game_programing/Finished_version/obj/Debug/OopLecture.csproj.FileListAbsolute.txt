@@ -1,0 +1,345 @@
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\bin\Debug\OopLecture.exe.config
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\bin\Debug\OopLecture.exe
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\bin\Debug\OopLecture.pdb
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.Form1.resources
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.Properties.Resources.resources
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.exe
+c:\users\ytakashina\documents\visual studio 2015\Projects\OopLecture\obj\Debug\OopLecture.pdb
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\bin\Debug\OopLecture.exe.config
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.exe
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.pdb
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\bin\Debug\OopLecture.exe
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\bin\Debug\OopLecture.pdb
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.Form1.resources
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\ytakashina\Documents\Visual Studio 2015\Projects\OopLecture\OopLecture\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\プログラミング演習\OopLecture\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\OopLecture\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\OopLecture\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\OopLecture\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\2017ユニラブ\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\2017ユニラブ\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\2017ユニラブ\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\2017ユニラブ\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+\\serverfile1\Common\ユニラブ\2017\2017ユニラブ\bin\Debug\OopLecture.exe.config
+\\serverfile1\Common\ユニラブ\2017\2017ユニラブ\obj\Debug\OopLecture.exe
+\\serverfile1\Common\ユニラブ\2017\2017ユニラブ\obj\Debug\OopLecture.pdb
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.exe
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.pdb
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\bin\Debug\OopLecture.exe
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\bin\Debug\OopLecture.pdb
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota　Nanako\Desktop\2017\2017ユニラブ\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\bin\Debug\OopLecture.exe.config
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.exe
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.pdb
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\bin\Debug\OopLecture.exe
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\bin\Debug\OopLecture.pdb
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.Form1.resources
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.Properties.Resources.resources
+\\SERVERFILE1\Personal\2016年度配属\2017\2017ユニラブ\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ishizuka\Desktop\2017ユニラブ\bin\Debug\OopLecture.exe.config
+C:\Users\Ishizuka\Desktop\2017ユニラブ\bin\Debug\OopLecture.exe
+C:\Users\Ishizuka\Desktop\2017ユニラブ\bin\Debug\OopLecture.pdb
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.exe
+C:\Users\Ishizuka\Desktop\2017ユニラブ\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170417_zukako2\20170417_zukako2\obj\Debug\OopLecture.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\bin\Debug\OopLecture.exe.config
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\bin\Debug\OopLecture.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\bin\Debug\OopLecture.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.Form1.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.Properties.Resources.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170418_kubota1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170418_kubota1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170419_tomi1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170421_tomi1_ugokan\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170424_tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\20170424_tomi1\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170424_tomi1\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170424_tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170425kubota1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170508tomi1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170509tomi1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170515tomi1\bin\Debug\OopLecture.exe.config
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170515tomi1\obj\Debug\OopLecture.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170515tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170515tomi1\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\20170515tomi1\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170515tomi1\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170515tomi1\obj\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170522kubota1\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\20170522kubota1\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170522kubota1\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170522kubota1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170602kubota1\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170613tomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170703tomi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170704tomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\bin\Debug\OopLecture.exe.config
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.exe
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.pdb
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\bin\Debug\OopLecture.exe
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\bin\Debug\OopLecture.pdb
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.Form1.resources
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.Properties.Resources.resources
+\\ServerFile1.pip.waseda.ac.jp\Common\ユニラブ\ユニラブ2017\20170704tomi2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170704tomi2\bin\Debug\OopLecture.exe.config
+C:\Users\Kubota\Desktop\20170704tomi2\bin\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170704tomi2\bin\Debug\OopLecture.pdb
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.Form1.resources
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.exe
+C:\Users\Kubota\Desktop\20170704tomi2\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170802nishitomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170803nishitomi2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\Debug\OopLecture.exe.config
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\Debug\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\Debug\OopLecture.pdb
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi2\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi3\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170806nishi4\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi2\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\bin\Debug\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\bin\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\bin\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishi3\obj\Debug\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Debug\unilab2017_game_de_programming.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Debug\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Debug\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Debug\unilab2017_game_de_programming.pdb

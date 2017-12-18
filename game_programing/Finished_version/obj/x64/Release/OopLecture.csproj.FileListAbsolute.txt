@@ -1,0 +1,9 @@
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\x64\Release\OopLecture.exe.config
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\x64\Release\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\bin\x64\Release\OopLecture.pdb
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.Form1.resources
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.Properties.Resources.resources
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170804nishitomi\obj\x64\Release\OopLecture.pdb

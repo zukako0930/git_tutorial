@@ -1,0 +1,60 @@
+C:\Users\Shunta Ito\Desktop\20170805ito\bin\Release\OopLecture.exe.config
+C:\Users\Shunta Ito\Desktop\20170805ito\bin\Release\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170805ito\bin\Release\OopLecture.pdb
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.Form1.resources
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.exe
+C:\Users\Shunta Ito\Desktop\20170805ito\obj\Release\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Release\OopLecture.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Release\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170805ito\bin\Release\OopLecture.pdb
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.exe
+C:\Users\Ko Nishitomi\Desktop\20170805ito\obj\Release\OopLecture.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\bin\Release\OopLecture.exe.config
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\bin\Release\OopLecture.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\bin\Release\OopLecture.pdb
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.csprojResolveAssemblyReference.cache
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.Form1.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.Properties.Resources.resources
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.csproj.GenerateResource.Cache
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.exe
+\\serverfile1\Common\ユニラブ\ユニラブ2017\20170807nishi4\obj\Release\OopLecture.pdb
+C:\Users\Shunta Ito\Desktop\20170807nishi4\bin\Release\unilab2017_game_de_programming.exe.config
+C:\Users\Shunta Ito\Desktop\20170807nishi4\bin\Release\unilab2017_game_de_programming.exe
+C:\Users\Shunta Ito\Desktop\20170807nishi4\bin\Release\unilab2017_game_de_programming.pdb
+C:\Users\Shunta Ito\Desktop\20170807nishi4\obj\Release\OopLecture.Form1.resources
+C:\Users\Shunta Ito\Desktop\20170807nishi4\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Shunta Ito\Desktop\20170807nishi4\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Shunta Ito\Desktop\20170807nishi4\obj\Release\unilab2017_game_de_programming.exe
+C:\Users\Shunta Ito\Desktop\20170807nishi4\obj\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Release\unilab2017_game_de_programming.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807ito\bin\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Release\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807ito\obj\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\bin\Release\unilab2017_game_de_programming.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\bin\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\bin\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\OopLecture.csprojResolveAssemblyReference.cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi1\obj\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\bin\Release\unilab2017_game_de_programming.exe.config
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\bin\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\bin\Release\unilab2017_game_de_programming.pdb
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\obj\Release\OopLecture.Form1.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\obj\Release\OopLecture.Properties.Resources.resources
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\obj\Release\OopLecture.csproj.GenerateResource.Cache
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\obj\Release\unilab2017_game_de_programming.exe
+C:\Users\Ko Nishitomi\Desktop\20170807nishtiomi3\obj\Release\unilab2017_game_de_programming.pdb

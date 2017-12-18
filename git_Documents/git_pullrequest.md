@@ -33,16 +33,20 @@ Total 5 (delta 0), reused 0 (delta 0)
 To https://github.com/zukako0930/git_tutorial.git
  * [new branch]      pull_req_tutorial -> pull_req_tutorial
 ```
+<br>
+<br>
+
 ![](./img/pull0.png)
-右の`New pull request`ボタンを押す．<br>
+- 右の`New pull request`ボタンを押す．<br>
 ![](./img/pull1.png)<br>
-自分がpushしたブランチを選択(おそらく一番上にある)
+- 自分がpushしたブランチを選択(おそらく一番上にある)
 
 ![](./img/pull2.png)<br>
-そのブランチでの変更履歴が記録されている．
+- そのブランチでの変更履歴が記録されている．
 
 ![](./img/pull3.png)<br>
-`Reviewers`のところでチェックを頼みたい人を追加できる．<br>
+- `Reviewers`のところでチェックを頼みたい人を追加できる．
 今回はレビューする人がいないので自分で`Merge pull request`ボタンを押せるが，レビューを依頼している場合には待ち状態になる．
+
 ![](./img/pull_merge.png)<br>
 プルリクがマージされると`close`状態になる．

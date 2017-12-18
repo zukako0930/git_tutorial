@@ -3,6 +3,7 @@
 - [gitって何？](#about_git)
 - [gitの基本](#git_basis)
 - [ローカルでの作業](git_Documents/git_commands.md)
+- [プルリクエストの作成](git_Documents/git_pullrequest.md)
 - [変更履歴のマージ](git_Documents/git_merge.md)
 - [branchを切って安全に作業を](git_Documents/git_branch.md) 
 - ytakashinaさんによるSourceTree講座
