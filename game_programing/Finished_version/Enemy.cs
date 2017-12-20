@@ -18,6 +18,7 @@ namespace OopLecture
 
         public Enemy(int x, int y, int r_x, int r_y,int t, int turn = 1, int w = 40, int h = 40) : base(x, y, w, h)
         {
+            X = 0;
             X = x;
             Y = y;
             W = w;
@@ -86,7 +87,7 @@ namespace OopLecture
 
         public virtual void Enemy_Draw(Graphics g)
         {
-            g.DrawImage(_img, new Point(X, Y));
+            g.DrawImage(_img, new Point(X+20, Y));
         }
 
     }

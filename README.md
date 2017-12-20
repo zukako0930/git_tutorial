@@ -6,7 +6,6 @@
 - [プルリクエストの作成](git_Documents/git_pullrequest.md)
 - [変更履歴のマージ](git_Documents/git_merge.md)
 - [branchを切って安全に作業を](git_Documents/git_branch.md) 
-- ytakashinaさんによるSourceTree講座
 
 <a name="about_git"></a>
 ## gitって何?
